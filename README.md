@@ -6,3 +6,4 @@ Attenzione: Il progetto funziona con il dataset 'listings.csv' nella cartella Pu
 Con piccole modifiche può essere esteso alle altre regioni.
 
 La KB e gli altri file CSV vengono generati dal progetto Python. Non sono stati inseriti i risultati ottenuti perchè superano i 25MB imposti da GitHub.
+E' possibile estrarre l KB dall'archivio compresso.
