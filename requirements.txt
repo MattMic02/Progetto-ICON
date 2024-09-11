@@ -1,0 +1,25 @@
+Name: pandas
+Version: 2.2.2
+
+Name: numpy
+Version: 2.1.0
+
+Name: matplotlib
+Version: 3.9.2
+
+Name: scikit-learn
+Version: 1.5.1
+
+Name: pyswip
+Version: 0.2.10
+
+Name: SPARQLWrapper
+Version: 2.0.0
+
+Name: kneed
+Version: 0.8.5
+
+Libreries on web
+
+Name: swiprolog
+Version: 8.4.2
